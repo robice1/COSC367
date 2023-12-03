@@ -1,0 +1,1 @@
+swap12([A, B | Rest], [B, A | Rest]).
